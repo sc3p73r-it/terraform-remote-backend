@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "s3_bucket_name" {
   type = string
-  default = "aws-lab-tfstate"
+  default = "aws-lab-tfstate-12345"
 }
 
 variable "dynamodb_table_name" {
