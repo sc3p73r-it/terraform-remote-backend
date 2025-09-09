@@ -1,3 +1,2 @@
 # terraform-remote-backend
-
-Hello
+- Create S3 Bucket and Dynamodb Table 
