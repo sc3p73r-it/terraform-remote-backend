@@ -1,0 +1,13 @@
+# directory to ignore
+.terraform/
+
+# local .tfstate files
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# crash log files
+*.log
+
+# Mac system files
+.DS_Store
